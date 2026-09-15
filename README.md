@@ -1,4 +1,3 @@
-=======
 # sculkbot
 
 meme discord bot to detect ref and likns of *Cosmic Princess Kaguya* and notify a selected user(<@780846736922509312> aka sculk1 aka me by default)
